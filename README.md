@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/ShermanTreeDev/Active-Directory-Simulation-Project">Active Directory Homelab</a>|
+| Active Directory Configuration         | <a href="https://github.com/ShermanTreeDev/Active-Directory-Simulation-Project">Active Directory Homelab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ShermanTreeDev/Snort-Live-Attack-Simulation">Snort - Live Attack Simulation</a>|
 | Software and Web Development           | <a href="https://github.com/ShermanTreeDev/Movie-Library">Movie Library Web Application</a>|
 
@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-005596?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TShark-000000?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### SIEM
