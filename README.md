@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Configuration         | <a href="https://github.com/ShermanTreeDev/Active-Directory-Simulation-Project">Active Directory Homelab</a>|
+| Active Directory Configuration         | <a href="https://github.com/ShermanTreeDev/Active-Directory-Simulation-Project">Active Directory Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ShermanTreeDev/Snort-Live-Attack-Simulation">Snort - Live Attack Simulation</a>|
 | Software and Web Development           | <a href="https://github.com/ShermanTreeDev/Movie-Library">Movie Library Web Application</a>|
 
